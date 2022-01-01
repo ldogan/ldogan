@@ -3,7 +3,7 @@
 
   <h3 align="center">Java web / mobile developer.
 
-  <h3 align="center">_______ MyWebSite: https://lutfullahdogan.weebly.com/ ___ <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">My Resume</a>____
+  <h3 align="center">_______ <a href="https://lutfullahdogan.weebly.com/">MyWebSite</a> _______ <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">MyResume</a> _______
   
   <h3 align="center">       
                                    
