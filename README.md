@@ -1,13 +1,13 @@
- <p><img align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQH87wTG_VRYqQ/profile-displayphoto-shrink_200_200/0/1640625951932?e=1646265600&v=beta&t=LOtjlnEEsf0lCjFTSqungyKNAS5ZlxOnVTJey3GjgR0" alt="ldogan" /></p>
-<h1 align="center">Hi 👋, I'm Lutfullah</h1>
+  <p><img align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQH87wTG_VRYqQ/profile-displayphoto-shrink_200_200/0/1640625951932?e=1646265600&v=beta&t=LOtjlnEEsf0lCjFTSqungyKNAS5ZlxOnVTJey3GjgR0" alt="ldogan" /></p>
+ <h1 align="center">Hi 👋, I'm Lutfullah</h1>
 
-<h3 align="center">Java web / mobile developer.
+  <h3 align="center">Java web / mobile developer.
 
- 
-<h3 align="center">_______ MyWebSite: https://lutfullahdogan.weebly.com/ _______
- 
+  <h3 align="center">_______ MyWebSite: https://lutfullahdogan.weebly.com/ _______
+  <h3 align="center">       
                                    
   <h1 align="center">_______The Tools am working with ________ </h1>
+  <h3 align="center">       
   
   DigitalArt Tools -> Photoshop | Illustrator | Lightroom | Blender | Fusion 360 
   ____
@@ -23,8 +23,8 @@
   ____
   Languages I specialize in -> Java | Python | Java Script | PhP | Advance HTML5 & CSS3 
   ____
- <h3 align="center">_____________________________________
- 
+  <h3 align="left">       
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldogan&label=Profile%20views&color=0e75b6&style=flat" alt="ldogan" /> </p>
 
