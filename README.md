@@ -24,7 +24,7 @@
   ____
   Databases ->  MySQL | NoSQL | MongoDB | SQL | Oracle
   ____
-  Languages I specialize in -> Java | Python | Java Script | PhP | Advance HTML5 & CSS3 
+  Languages I specialize in -> Java | Python | C++ | Java Script | PhP | Advance HTML5 & CSS3 
   ____
   <h3 align="left">       
   
