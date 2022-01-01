@@ -1,5 +1,5 @@
   <p><img align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQH87wTG_VRYqQ/profile-displayphoto-shrink_200_200/0/1640625951932?e=1646265600&v=beta&t=LOtjlnEEsf0lCjFTSqungyKNAS5ZlxOnVTJey3GjgR0" alt="ldogan" /></p>
- <h1 align="left">Hi 👋, I'm Lutfullah</h1>
+ <h1 <h1 style="color:Tomato;">Hi 👋, I'm Lutfullah</h1>
 
   <h3 align="left">Education | Robotics | Digital Art | (Photo & Video) Graphy | Software Engineering
 
@@ -8,7 +8,7 @@
  <br>
     <br>
                                    
-  <h1 align="left"> </> The Tools am working with </> </h1>
+ <h1 style="color:Tomato;"> The Tools am working with </h1>
   <h3 align="left">       
   
   <h3 align="left">DigitalArt Tools -> Photoshop | Illustrator | Lightroom | Blender | Fusion 360 
