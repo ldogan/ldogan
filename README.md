@@ -3,7 +3,8 @@
 
   <h3 align="center">Java web / mobile developer.
 
-  <h3 align="center">_______ MyWebSite: https://lutfullahdogan.weebly.com/ _______
+  <h3 align="center">_______ MyWebSite: https://lutfullahdogan.weebly.com/ ___ <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">My Resume</a>____
+  
   <h3 align="center">       
                                    
   <h1 align="left">->The Tools am working with</h1>
@@ -11,7 +12,9 @@
   
   DigitalArt Tools -> Photoshop | Illustrator | Lightroom | Blender | Fusion 360 
   ____
-  Videography Tools -> After Effect | Premier Pro | Animate Robotics -> Wex | FTC | Arduino | Lego 
+  Videography Tools -> After Effect | Premier Pro | Animate 
+  ____
+  Robotics -> Wex | FTC | Arduino | Lego 
   ____
   Developer Tools -> JSP&Servlets | Spring Boots & Micro services | React.js & React Native | Jira | Agile | Hibernate | Bash Scripting | Ansible | Terraform | Jenkins | Kubernetes | Server ( Windows & Linux ) | Networking | AWS
   ____
