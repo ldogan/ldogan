@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lutfullah</h1>
 <h3 align="center">A passionate Java web / mobile developer.
-  ==========================================================
+  ____
                                    
   _______The Tools am working with ________ 
   
@@ -8,11 +8,17 @@
   ____
   Videography Tools -> After Effect | Premier Pro | Animate Robotics -> Wex | FTC | Arduino | Lego 
   ____
-  Developer Tools -> Advanced Java | MySQL | Advance HTML5 & CSS3 | JSP&Servlets | Spring Boots & Micro services | React.js & React Native | JavaScript | Jira | Agile | Hibernate
+  Developer Tools ->  MySQL | JSP&Servlets | Spring Boots & Micro services | React.js & React Native | Jira | Agile | Hibernate
   ____
   Automation Tools -> Selenium | Rest API | Jenkins | Dockers | Appium Mobile | Cypress | Cucumber 
   ____
-  Cyber Security-> Nmap | Metaspoilt | Splunk | Wireshark | Netcat | Burpsuit | Nikto | Nessus</h3>
+  Cyber Security-> Nmap | Metaspoilt | Splunk | Wireshark | Netcat | Burpsuit | Nikto | Nessus</h3>   
+  ____
+  Databases ->  MySQL | NoSQL | MongoDB | SQL | Oracle
+  ____
+  Languages I specialize in -> Java | Python | Java Script | PhP | Advance HTML5 & CSS3 
+  ____
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldogan&label=Profile%20views&color=0e75b6&style=flat" alt="ldogan" /> </p>
 
