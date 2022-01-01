@@ -1,30 +1,39 @@
   <p><img align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQH87wTG_VRYqQ/profile-displayphoto-shrink_200_200/0/1640625951932?e=1646265600&v=beta&t=LOtjlnEEsf0lCjFTSqungyKNAS5ZlxOnVTJey3GjgR0" alt="ldogan" /></p>
- <h1 align="center">Hi 👋, I'm Lutfullah</h1>
+ <h1 align="left">Hi 👋, I'm Lutfullah</h1>
 
-  <h3 align="center">Education | Robotics | Digital Art | (Photo & Video) Graphy | Software Engineering
+  <h3 align="left">Education | Robotics | Digital Art | (Photo & Video) Graphy | Software Engineering
 
-  <h3 align="center">_______ <a href="https://lutfullahdogan.weebly.com/">MyWebSite</a> _______ <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">MyResume</a> _______
+  <h3 align="left"># <a href="https://lutfullahdogan.weebly.com/">MyWebSite</a> # <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">MyResume</a> # <a href="https://www.tentechofficial.com/">MyBlog</a>
   
-  <h3 align="center">       
+  <h3 align="center">                                                
+    <h3 align="center">                                                
                                    
   <h1 align="left">->The Tools am working with</h1>
   <h3 align="left">       
   
-  DigitalArt Tools -> Photoshop | Illustrator | Lightroom | Blender | Fusion 360 
+  <h3 align="left">DigitalArt Tools -> Photoshop | Illustrator | Lightroom | Blender | Fusion 360 
+    
   ____
-  Videography Tools -> After Effect | Premier Pro | Animate 
+  <h3 align="left">Videography Tools -> After Effect | Premier Pro | Animate 
+    
   ____
-  Robotics -> Wex | FTC | Arduino | Lego 
+<h3 align="left">Robotics -> Wex | FTC | Arduino | Lego 
+  
   ____
-  Developer Tools -> JSP&Servlets | Spring Boots & Micro services | React.js & React Native | Jira | Agile | Hibernate | Bash Scripting | Ansible | Terraform | Jenkins | Kubernetes | Server ( Windows & Linux ) | Networking | AWS
+  <h3 align="left">Developer Tools -> JSP&Servlets | Spring Boots & Micro services | React.js & React Native | Jira | Agile | Hibernate | Bash Scripting | Ansible | Terraform | Jenkins | Kubernetes | Server ( Windows & Linux ) | Networking | AWS
+    
   ____
-  Automation Tools -> Selenium | Rest API | Jenkins | Dockers | Appium Mobile | Cypress | Cucumber 
+  <h3 align="left">Automation Tools -> Selenium | Rest API | Jenkins | Dockers | Appium Mobile | Cypress | Cucumber 
+    
   ____
-  Cyber Security-> Nmap | Metaspoilt | Splunk | Wireshark | Netcat | Burpsuit | Nikto | Nessus</h3>   
+  <h3 align="left">Cyber Security-> Nmap | Metaspoilt | Splunk | Wireshark | Netcat | Burpsuit | Nikto | Nessus</h3>   
+    
   ____
-  Databases ->  MySQL | NoSQL | MongoDB | SQL | Oracle
+  <h3 align="left">Databases ->  MySQL | NoSQL | MongoDB | SQL | Oracle
+    
   ____
-  Languages I specialize in -> Java | Python | C++ | Java Script | PhP | Advance HTML5 & CSS3 
+  <h3 align="left">Languages i specialize in -> Advance Java | Advance Python | C++ | Java Script | PhP | Advance HTML5 & CSS3 
+    
   ____
   <h3 align="left">       
   
