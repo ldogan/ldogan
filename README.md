@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lutfullah</h1>
-<h3 align="center">A passionate Java web / mobile developer.
-  ____
+<h3 align="center">Java web / mobile developer.
+  <h3 align="center">_____________________________________
+ 
                                    
   _______The Tools am working with ________ 
   
@@ -18,6 +19,7 @@
   ____
   Languages I specialize in -> Java | Python | Java Script | PhP | Advance HTML5 & CSS3 
   ____
+ <h3 align="center">_____________________________________
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldogan&label=Profile%20views&color=0e75b6&style=flat" alt="ldogan" /> </p>
