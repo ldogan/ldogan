@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lutfullah</h1>
 <h3 align="center">Java web / mobile developer.
-  <h3 align="center">_____________________________________
+<h3 align="center">_____________________________________
  
                                    
-  _______The Tools am working with ________ 
+  <h1 align="center">_______The Tools am working with ________ </h1>
   
   DigitalArt Tools -> Photoshop | Illustrator | Lightroom | Blender | Fusion 360 
   ____
