@@ -13,7 +13,7 @@
   ____
   Videography Tools -> After Effect | Premier Pro | Animate Robotics -> Wex | FTC | Arduino | Lego 
   ____
-  Developer Tools ->  MySQL | JSP&Servlets | Spring Boots & Micro services | React.js & React Native | Jira | Agile | Hibernate
+  Developer Tools -> JSP&Servlets | Spring Boots & Micro services | React.js & React Native | Jira | Agile | Hibernate | Bash Scripting | Ansible | Terraform | Jenkins | Kubernetes | Server ( Windows & Linux ) | Networking 
   ____
   Automation Tools -> Selenium | Rest API | Jenkins | Dockers | Appium Mobile | Cypress | Cucumber 
   ____
