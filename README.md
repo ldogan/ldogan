@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lutfullah</h1>
-<h3 align="center">A passionate Java web / mobile developer Turkey.
+<h3 align="center">A passionate Java web / mobile developer.
   
   _______The Tools am working with ________ 
   
