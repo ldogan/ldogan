@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lutfullah</h1>
  <p><img align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQH87wTG_VRYqQ/profile-displayphoto-shrink_200_200/0/1640625951932?e=1646265600&v=beta&t=LOtjlnEEsf0lCjFTSqungyKNAS5ZlxOnVTJey3GjgR0" alt="ldogan" /></p>
+<h1 align="center">Hi 👋, I'm Lutfullah</h1>
+
 <h3 align="center">Java web / mobile developer.
 
  
