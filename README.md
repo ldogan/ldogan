@@ -1,7 +1,7 @@
   <p><img align="right" src="https://media-exp1.licdn.com/dms/image/C5603AQH87wTG_VRYqQ/profile-displayphoto-shrink_200_200/0/1640625951932?e=1646265600&v=beta&t=LOtjlnEEsf0lCjFTSqungyKNAS5ZlxOnVTJey3GjgR0" alt="ldogan" /></p>
  <h1 align="center">Hi 👋, I'm Lutfullah</h1>
 
-  <h3 align="center">Java web / mobile developer.
+  <h3 align="center">Education | Robotics | Digital Art | (Photo & Video) Graphy | Software Engineering
 
   <h3 align="center">_______ <a href="https://lutfullahdogan.weebly.com/">MyWebSite</a> _______ <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">MyResume</a> _______
   
