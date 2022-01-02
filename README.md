@@ -3,7 +3,7 @@
 
   <h3 align="left">Education | Robotics | Digital Art | (Photo & Video) Graphy | Software Engineering
 
-  <h3 align="left"># <a href="https://lutfullahdogan.weebly.com/">MyWebSite</a> # <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">MyResume</a> # <a href="https://www.tentechofficial.com/">MyBlog</a>
+  <h3 align="left"># <a href="https://lutfullahdogan.com/">MyWebSite</a> # <a href="https://drive.google.com/file/d/1TwN0XOV0dlSmMvL_w5yIZ6Xzu8DqWShw/view">MyResume</a> # <a href="https://www.tentechofficial.com/">MyBlog</a>
   
  <br>
     <br>
