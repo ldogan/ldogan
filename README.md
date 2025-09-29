@@ -1,15 +1,14 @@
 <p align="center">
-  <b>Fullstack Java Developer | Software Engineer | Tech Enthusiast</b>
+  <b>Fullstack Java Developer · Software Engineer · Tech Enthusiast</b>
 </p>
 
 ---
 
 ## 🧑‍🚀 About Me
-- 🎓 Fullstack Java Developer with experience across Turkey · Kenya · USA  
-- 💡 Interested in **REST APIs, scalable systems, and clean architectures**  
-- 🤖 Passionate about **Robotics, Blockchain, and Emerging Tech**  
-- 📚 Lifelong learner, always exploring new frameworks & tools  
-- ⚡ Fun fact: I can fix networks, build robots & design logos — all in one day 😅  
+- Building **REST APIs**, scalable web apps, and clean architectures  
+- Passionate about **Robotics**, **Blockchain**, and **Emerging Tech**  
+- Experience across **Turkey · Kenya · USA**  
+- Always learning new tools & frameworks  
 
 ---
 
@@ -20,13 +19,32 @@
 
 ---
 
-## 🚀 Projects Showcase
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚗 [Car Rental Service](https://github.com/ldogan/car-rental-springboot) | Backend API for car rentals | Java · Spring Boot |
-| 🎓 [ELMA SIS](https://github.com/ldogan/elma-sis) | School Information System | Java · Spring Boot |
-| 💼 [Payroll & Accounting](https://github.com/ldogan/payroll-accounting) | Employee payroll + expenses | Spring Boot · MySQL |
-| 🌐 [Car Rental Frontend](https://github.com/ldogan/car-rental-frontend) | Landing + booking frontend | React · Tailwind |
+## 🚀 Featured Projects
+> En çok gösterilecek projeler — hızlıca göz atılabilsin.
+
+- 🚗 **Car Rental API (Spring Boot)** — production-style REST backend  
+  `Java · Spring Boot · JPA · MySQL`  
+  ➜ https://github.com/ldogan/car-rental-springboot
+
+- 🌐 **Car Rental Frontend (React + Vite)** — modern landing + booking UI  
+  `React · Vite · Tailwind`  
+  ➜ https://github.com/ldogan/car-rental-frontend
+
+- 🎓 **ELMA — School Information System** — student/teacher/grade ops  
+  `Java · Spring Boot · JPA`  
+  ➜ https://github.com/ldogan/elma-sis
+
+- 💼 **Payroll & Accounting** — employees, periods, net/gross, expenses, reports  
+  `Spring Boot · H2/MySQL · Swagger`  
+  ➜ https://github.com/ldogan/payroll-accounting
+
+- 🥞 **Pancake Token (BEP20)** — Solidity ERC20 + React Web3 DApp (basic)  
+  `Solidity · OpenZeppelin · React · Web3.js`  
+  ➜ https://github.com/ldogan/pancake-token
+
+- 🥞 **Pancake Token Pro** — Permit, Pause, Burn, Fee, Tests, Deploy/Verify  
+  `Hardhat · Ethers v6 · React (Vite)`  
+  ➜ https://github.com/ldogan/pancake-token-pro
 
 ---
 
