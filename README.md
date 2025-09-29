@@ -38,10 +38,6 @@
   `Spring Boot · H2/MySQL · Swagger`  
   ➜ https://github.com/ldogan/payroll-accounting
 
-- 🥞 **Pancake Token (BEP20)** — Solidity ERC20 + React Web3 DApp (basic)  
-  `Solidity · OpenZeppelin · React · Web3.js`  
-  ➜ https://github.com/ldogan/pancake-token
-
 - 🥞 **Pancake Token Pro** — Permit, Pause, Burn, Fee, Tests, Deploy/Verify  
   `Hardhat · Ethers v6 · React (Vite)`  
   ➜ https://github.com/ldogan/pancake-token-pro
