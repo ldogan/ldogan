@@ -1,42 +1,45 @@
-<h1 align="center">Hi 👋, I'm Lutfullah</h1>
-<h3 align="center">Full-Stack Java Developer | Spring Boot • REST APIs • SQL • React</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dgnlutfullah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:dgnlutfullah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://github.com/ldogan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
-- **Backend:** Java • Spring Boot • Hibernate • REST APIs  
-- **Frontend:** React • HTML5 • CSS3 • Bootstrap  
-- **Database:** MySQL • PostgreSQL  
-- **Tools:** Git/GitHub • IntelliJ IDEA • Postman • Docker (basic)  
-- **Concepts:** OOP • MVC • Agile • Unit Testing  
+<h1 align="center">Hi, I'm Lutfullah 👋</h1>
+<h3 align="center">Fullstack Java Developer | Software Engineer | Tech Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-- Passionate about designing and building **scalable backend services** with clean architecture.  
-- Comfortable with **full-stack workflows**, from API design to database schema to UI integration.  
-- Hands-on experience with **school systems, accounting/payroll apps, stock management**, and **blockchain-based DApps**.  
-- Always learning, especially around **Spring Security, JWT, and cloud deployment**.  
+- 🎓 Fullstack Java Developer & Software Engineer  
+- 💡 Interested in building **REST APIs, scalable web apps, and clean architectures**  
+- 🤖 Passionate about **Robotics, Blockchain, and Emerging Tech**  
+- 🌍 Experienced in international education & tech projects (Turkey · Kenya · USA)  
+- 📚 Lifelong learner, always exploring **new frameworks & tools**  
+- ⚡ Fun fact: I can fix networks, build robots, and design logos — all in one day 😅  
+
+---
+
+### 🛠 Tech Stack
+**Backend:** Java · Spring Boot · Hibernate · REST API · MySQL  
+**Frontend:** React · TailwindCSS · Vite  
+**DevOps:** Docker · Jenkins · GitHub Actions · AWS  
+**Other:** Python · C# (Unity) · Blender (3D)  
+
+---
+
+### 🔥 Featured Projects
+- 🚗 [Car Rental Service (Spring Boot)](https://github.com/ldogan/car-rental-springboot)  
+- 🎓 [ELMA – School Information System](https://github.com/ldogan/elma-sis)  
+- 💼 [Payroll & Accounting](https://github.com/ldogan/payroll-accounting)  
+- 🌐 [Car Rental Frontend (React + Tailwind)](https://github.com/ldogan/car-rental-frontend)  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldogan&show_icons=true&theme=tokyonight" alt="ldogan stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ldogan&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldogan&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldogan&layout=compact&theme=tokyonight" alt="ldogan top languages" />
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/dgnlutfullah" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/ldgn07" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/ltfllhdgn" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" /></a>
 </p>
